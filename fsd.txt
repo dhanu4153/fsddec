@@ -1,0 +1,10 @@
+git init
+git config --global user.name"Kl2400032560"
+git config --global user.email"2400032560@kluniversity.com"
+git add ("file name")
+git commit -m "file name"
+git branch -M main
+git remote add origin (link)
+git push -u orgin main
+git checkout
+git log
